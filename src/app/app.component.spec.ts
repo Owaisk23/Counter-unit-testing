@@ -1,5 +1,5 @@
 describe('AppComponent', () =>{
   it('true should be true', () => {
-    expect(true).toBe(false);
+    expect(true).toBe(true);
   })
 })
